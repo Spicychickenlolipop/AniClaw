@@ -3,9 +3,7 @@
 **An AI coding assistant for your terminal and Telegram.**
 
 AniClaw helps you understand a codebase, turn a goal into an implementation plan, and prepare code changes for review. Built with TypeScript and Bun, this version uses **OpenRouter** to connect to language models and keeps file changes and shell commands staged until you approve them.
-<img width="1535" height="862" alt="image" src="https://github.com/user-attachments/assets/78b1fa5a-2019-468f-a915-90b27f262b93" />
-
-
+<img width="1203" height="644" alt="Screenshot 2026-09-27 0157582" src="https://github.com/user-attachments/assets/bc381fde-ad08-43f1-a98e-f047671d3f47" />
 ## Features
 
 - **Ask Mode** — explore the codebase and optionally save terminal answers as Markdown.
